@@ -3,6 +3,10 @@
 ## 📘 Introducción
 Describe brevemente el propósito del proyecto, qué problema resuelve y quién lo va a usar.
 
+
+
+
+
 ## Instalacion de Unity
 Debido a que Bazzite es un sistema inmutable, no debes ejecutar estos comandos directamente en la terminal principal. Si lo haces, los cambios no serán permanentes o podrían fallar. 
 
@@ -125,41 +129,6 @@ sudo dnf install p7zip p7zip-plugins cpio
 
 
 
-
-## ⚙️ Instalación
-Instrucciones para instalar dependencias o configurar el entorno:
-
-```bash
-pip install -r requirements.txt
-```
-
-## 🚀 Uso
-Explica cómo ejecutar el proyecto o usar las funciones principales:
-
-```python
-from proyecto import ejecutar
-
-ejecutar(parametros)
-```
-
-## 🧪 Ejemplos de Código
-Incluye ejemplos prácticos de uso:
-
-```python
-def saludar(nombre):
-    print(f"Hola, {nombre}!")
-
-saludar("Nilson")
-```
-
-## 📝 Notas
-Agrega cualquier información adicional, advertencias o recomendaciones.
-
-- Este proyecto está en desarrollo.
-- Compatible con Python 3.8 o superior.
-
-## 📄 Licencia
-Especifica la licencia si aplica.
 
 ---
 
